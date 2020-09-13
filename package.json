@@ -1,0 +1,15 @@
+{
+  "name": "iflytekdel",
+  "version": "1.0.0",
+  "main": "del.js",
+  "author": "goEval",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "crypto-js": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pixiv.js"
+  }
+}
