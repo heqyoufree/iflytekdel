@@ -10,6 +10,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node pixiv.js"
+    "start": "node del.js"
   }
 }
